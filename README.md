@@ -73,7 +73,7 @@ Therefore I put data into following categories:
 And I distributed data as the following:
 
 1. Steering Angle Small Positive - 741 (that's the total number of small positive angle in my dataset)
-2. Steering Angle Small Negative - 1355 (that's the total number of small positive angle in my dataset)
+2. Steering Angle Small Negative - 1355 (that's the total number of small negative angle in my dataset)
 3. Steering Angle Medium Positive - 293 (that's the total number of medium positive angle in my dataset)
 4. Steering Angle Medium Negative - 569 (that's the total number of medium negative angle in my dataset)
 5. Steering Angle Large Positive - 300

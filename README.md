@@ -89,6 +89,7 @@ File: model_sunny.py
 Why I chose the model:
 
 1. I got inspiration mostly from NVIDIA model and blog posts of fellow students posted by David Silver.
+
 End to End Learning for Self-Driving Cars
 http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
 

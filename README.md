@@ -22,7 +22,7 @@ I collected data by recording the car moving from the edge of the road to the ce
 
 Center lane driving sample picture
 
-![Alt text](/relative/path/to/center_2017_02_25_11_56_07_537.png?raw=true "Optional Title")
+!(https://github.com/sunnymarketingpdx/udacity_behavioral_cloning/blob/master/center_2017_02_25_11_56_07_537.jpg)
 
 center_2017_02_25_11_56_07_537
 

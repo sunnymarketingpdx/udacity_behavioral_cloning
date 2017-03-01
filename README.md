@@ -22,6 +22,8 @@ I collected data by recording the car moving from the edge of the road to the ce
 
 Center lane driving sample picture
 
+![Alt text](/relative/path/to/center_2017_02_25_11_56_07_537.png?raw=true "Optional Title")
+
 center_2017_02_25_11_56_07_537
 
 Recovering from the left side and right sides of the road back to center

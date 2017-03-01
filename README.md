@@ -21,10 +21,7 @@ Step 1: Data collection
 I collected data by recording the car moving from the edge of the road to the center of the road on the full track. For sharp turns (such as near the lake), I recorded 3 times for each sharp turn to collect enough training data.
 
 Center lane driving sample picture
-
-!(https://github.com/sunnymarketingpdx/udacity_behavioral_cloning/blob/master/center_2017_02_25_11_56_07_537.jpg)
-
-center_2017_02_25_11_56_07_537
+![center_2017_02_25_11_56_07_537](https://cloud.githubusercontent.com/assets/11469505/23437375/bc0e3b9c-fdc2-11e6-8b00-2ede248a5971.jpg)
 
 Recovering from the left side and right sides of the road back to center
 

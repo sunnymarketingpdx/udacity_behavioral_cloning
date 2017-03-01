@@ -90,11 +90,11 @@ Why I chose the model:
 
 1. I got inspiration mostly from NVIDIA model and blog posts of fellow students posted by David Silver.
 
-End to End Learning for Self-Driving Cars
-http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
+   End to End Learning for Self-Driving Cars
+   http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
 
-How Udacity’s Self-Driving Car Students Approach Behavioral Cloning
-https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.mc5ivytov
+   How Udacity’s Self-Driving Car Students Approach Behavioral Cloning
+   https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.mc5ivytov
 
 2. The training time is below 30 minutes which is ideal
 
